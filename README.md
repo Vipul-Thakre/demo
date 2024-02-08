@@ -1,2 +1,2 @@
 # demo
-This is my first git repository. Author Vipul Thakre
+This is my first git repository.<br> Author Vipul Thakre
